@@ -1,0 +1,59 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
+
+section {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+email {
+    background-color: goldenrod;
+}
+
+github {
+    background-color: lightsteelblue
+}
+
+portfolio {
+    background-color: darkorange;
+}
+
+div.a {
+    text-align: 50px;
+}
+body {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif
+}
+ul {
+    color: red;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+}
+article {
+    border-image: fill;
+    background-color: black ;
+    background-size:auto;
+    text-align: center;
+}/* Anatomy of an HTML Element:
+1. Content
+2. padding
+3. Border
+4. Margin
+padding: px;
+broder
+margin top
+margin bottom
+hieght 
+widgth
+point
+font text
+font size
