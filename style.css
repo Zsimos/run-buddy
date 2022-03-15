@@ -1,0 +1,46 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bolder;
+}
+h1 {
+    text-decoration-color: black;
+    background-color: lightskyblue;
+    padding:10px;
+    border-style:ridge;
+    border-color: black;
+    border-width: auto ;
+  
+}
+
+img{
+    border-style: solid;
+    border-color: black;
+    border-spacing: 35px;
+
+}
+
+#uol1 {
+    display:block;
+    padding-left: 20px;
+    margin:20px auto;
+    text-align: left;
+    background-color: rgb(76, 126, 103);
+    background-size: 150px;
+    width: 300px;
+    height: 150px;
+    border: 10px solid;
+    color: black;
+
+}
+
+
+
+
+article {
+    margin: 20px;
+    
+}
